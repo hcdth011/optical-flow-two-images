@@ -1,3 +1,6 @@
-编译： 直接在这个目录下 make
+This program computes the optical flow of two given images, using OpenCV library.
+-------------------------------------------------------------------------------------
 
-运行： ./opflow pic1.png pic2.png
+Compile： run "make" under this directory.
+
+usage： ./opflow pic1.png pic2.png
